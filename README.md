@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on swift mobile development and C# backend development
+- 🔭 I’m currently working in swift mobile development and C# backend development
 - 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate on anything
 
