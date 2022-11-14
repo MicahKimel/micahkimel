@@ -2,8 +2,8 @@
 - 🔭 I’m currently working in swift mobile development and C# backend development
 - 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate on anything
-- - 📫 How to reach me: https://www.linkedin.com/in/micahkimel/
 - ⚡ Fun fact: I swam at Wheaton College
+- 📫 How to reach me: https://www.linkedin.com/in/micahkimel/
 
 <!--
 **MicahKimel/micahkimel** is a ✨ Full Stack Developer ✨
