@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working in swift mobile development and C# backend development
-- 🌱 I’m currently developing a workout app on the side using React Native, C#, mysql
 - 👯 I’m looking to collaborate on anything
 - ⚡ Fun fact: I swam at Wheaton College
 - 📫 How to reach me: https://www.linkedin.com/in/micahkimel/
