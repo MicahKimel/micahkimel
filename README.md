@@ -3,6 +3,7 @@
 - 👯 I’m looking to collaborate on anything
 - ⚡ Fun fact: I swam at Wheaton College
 - 📫 How to reach me: https://www.linkedin.com/in/micahkimel/
+- 🌱 My Website https://thundersoftapi.com
 
 <!--
 **MicahKimel/micahkimel** is a ✨ Full Stack Developer ✨
